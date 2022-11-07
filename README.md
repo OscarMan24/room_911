@@ -15,4 +15,5 @@
 - Configurar archivo .env con las credenciales correspondiente para la conexión a la base de datos
 - Usuario de prueba para panel: usuarioprueba@gmail.com
 - Contraseña de prueba panel : 123456
+- Url para uso del modulo de validacion del personal /get-access 
 
