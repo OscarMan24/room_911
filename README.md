@@ -21,7 +21,15 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Intrucciones de instalación 
+- Abrir la consola y usar el comando npm i
+- Subir base de datos ubicada en este repositorio
+- Configurar archivo .env con las credenciales correspondiente para la conexión a la base de datos
+- Usuario de prueba para panel: usuarioprueba@gmail.com
+- Contraseña de prueba panel : 123456
+
+
+<!-- ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
@@ -61,4 +69,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
