@@ -13,6 +13,7 @@
 - Abrir la consola y usar el comando npm i
 - Subir base de datos ubicada en este repositorio
 - Configurar archivo .env con las credenciales correspondiente para la conexión a la base de datos
+- Ejecutar el comando "php artisan storage:link"
 - Usuario de prueba para panel: usuarioprueba@gmail.com
 - Contraseña de prueba panel : 123456
 - Url para uso del modulo de validacion del personal /get-access 
